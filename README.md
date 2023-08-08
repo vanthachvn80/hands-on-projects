@@ -1,5 +1,5 @@
 ### hands-on-projects
--------------------------------Data anlytics ----------------------------
+-------------------------------Data analytics ----------------------------
 
 [1/ Capstone project_IBM Data Analyst](https://github.com/vanthachvn80/hands-on-projects/tree/main/COVID19%20Data%20Analysis%20Using%20Python)
 

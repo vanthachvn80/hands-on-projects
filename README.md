@@ -1,5 +1,5 @@
 ### hands-on-projects
--------------------------------Data analytics ----------------------------
+-------------------------------Data analytics --------------------------
 
 [1/ Capstone project_IBM Data Analyst](https://github.com/vanthachvn80/hands-on-projects/tree/main/COVID19%20Data%20Analysis%20Using%20Python)
 
@@ -17,6 +17,6 @@
 
 [8/ Statistical Data Visualization with Seaborn_](https://github.com/vanthachvn80/hands-on-projects/tree/main/Statistical%20Data%20Visualization%20with%20Seaborn_)
 
-[9/ COVID-19 - Analysis, Visualization & Comparisons](https://github.com/vanthachvn80/hands-on-projects/tree/main/COVID-19%20-%20Analysis%2C%20Visualization%20%26%20Comparisons)
 
-Data: [Kaggle](https://www.kaggle.com/datasets/cptspark/novel-coronavirus-cdr-202011feb?resource=download)
+[9/ COVID-19 - Analysis, Visualization & Comparisons] (https://github.com/vanthachvn80/hands-on-projects/tree/main/COVID-19%20-%20Analysis%2C%20Visualization%20%26%20Comparisons)
+

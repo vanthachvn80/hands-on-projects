@@ -20,3 +20,5 @@
 
 [9/ COVID-19 - Analysis, Visualization & Comparisons](https://github.com/vanthachvn80/hands-on-projects/tree/main/COVID-19%20-%20Analysis%2C%20Visualization%20%26%20Comparisons)
 
+[10/ Crime Zone Heatmaps with Python and Folium](https://github.com/vanthachvn80/hands-on-projects/tree/main/Crime%20Zone%20Heatmaps%20with%20Python%20and%20Folium)
+
